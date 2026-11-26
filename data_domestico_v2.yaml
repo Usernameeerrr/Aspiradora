@@ -1,0 +1,10 @@
+path: /content/indoor-waste-detection-7
+train: train/images
+val: valid/images
+test: test/images
+nc: 4
+names:
+- cap
+- paper
+- plastic
+- shell
